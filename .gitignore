@@ -1,0 +1,6 @@
+node_modules/
+.codegraph/
+.playwright-cli/
+.playwright-mcp/
+.idea/
+.claude
